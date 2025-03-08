@@ -1,0 +1,46 @@
+html, body {
+    margin: 0;
+   
+   
+    background-image: url(planete/fond.jpg);
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+  }
+  canvas {
+    display: block;
+  
+    
+    }
+    
+
+    #btn1 {
+      
+      background-color: #5CADD3;
+      margin-left: 30%;
+      color: #fff;
+      text-align: center; 
+      border-radius: 5px;
+      height: 25px;
+      width: 90px;
+    }
+    #btn2 {
+    
+    background-color: #5CADD3;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    height: 25px;
+    width: 90px;
+    }
+
+    #canv{
+      
+      position: relative; 
+      padding: 10px 10px 10px 10px; 
+      bottom: 0;
+      left: 10px;
+    
+    }
+    h1{
+      color: antiquewhite;
+    }
